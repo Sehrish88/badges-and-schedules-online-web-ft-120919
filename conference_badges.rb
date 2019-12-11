@@ -1,4 +1,4 @@
 speakers = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 def badge_maker(name)
   speakers.each do |name|
-    puts
+    puts "Hello, my name is "
