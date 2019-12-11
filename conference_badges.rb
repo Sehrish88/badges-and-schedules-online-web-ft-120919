@@ -3,3 +3,4 @@ def badge_maker(name)
   speakers.each do |name|
     puts "Hello, my name is #{name [count]}"
     counter += 1 
+  end 
